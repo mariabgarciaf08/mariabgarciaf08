@@ -41,5 +41,6 @@
 
 ### 📊 GitHub Stats
 
-![Maria's GitHub Stats](https://gh-stats-gen.vercel.app/api?username=mariabgarciaf08&layout=compact&theme=github_dark)
+![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariabgarciaf08&show_icons=true&theme=github_dark&hide_title=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariabgarciaf08&layout=compact&theme=github_dark&hide_title=true)
