@@ -36,3 +36,10 @@
 - Scalable AI for Earth observation 🌍  
 - Remote sensing for climate resilience and sustainability  
 - Generative modeling for geospatial data synthesis  
+
+---
+
+### 📊 GitHub Stats
+
+![Maria's GitHub Stats](https://gh-stats-gen.vercel.app/api?username=mariabgarciaf08&layout=compact&theme=github_dark)
+
